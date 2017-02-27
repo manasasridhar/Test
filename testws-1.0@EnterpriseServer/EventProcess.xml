@@ -1,0 +1,1 @@
+<application guid="TESTWS" version="1.0"><display name="TestWS" categories="Changi.WebServices" /><Metadata productVersion="10" buildNo="10700" createdBy="admin" /><creation date="07-02-2017 01:08:37" authors="eStudio" schema-version="1.0" /><deployment label="Development" /><deleteDestinationAfterStop value="Fetch_From_FES" /><durableRoute value="Fetch_From_FES" /></application>
